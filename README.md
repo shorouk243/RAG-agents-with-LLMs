@@ -82,3 +82,5 @@ The system is suitable for applications like chatbots, virtual assistants, and c
    ```bash
    git clone https://github.com/your-username/interactive-rag-agent.git
    cd interactive-rag-agent
+
+colab link : https://colab.research.google.com/drive/17cpId8wdlwVNsAvZGMoll41gu-fL3c5E?usp=sharing
